@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Created by [Aditya Bhandari] · [bhandeystruck@gmail.com] 
+Created by Aditya Bhandari · bhandeystruck@gmail.com
 
 ---
 
