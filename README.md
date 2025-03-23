@@ -69,7 +69,7 @@ Created several insightful features such as:
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/your-username/bank-churn-prediction.git
+git clone https://github.com/bhandeystruck/bank-churn-prediction.git
 ```
 
 2. Install requirements  
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Created by [Your Name] · [your.email@example.com] · [LinkedIn/GitHub profile]
+Created by [Aditya Bhandari] · [bhandeystruck@gmail.com] 
 
 ---
 
